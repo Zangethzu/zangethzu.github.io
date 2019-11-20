@@ -1,0 +1,153 @@
+body {
+    background: url("img/bug.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    color: #FFFFFF;
+}
+
+header {
+    width: 100%;
+    background: url("img/shapka.jpg");
+    height: 70px;
+    position: fixed;
+    padding-top: -70px;
+    top: 0;
+
+}
+
+.h1 {
+
+    font-size: 40px;
+    color: #CCCCCC;
+    padding-top: 100px;
+    padding-left: 850px;
+    line-height: 100%;
+    font-family: 'Ranchers', cursive;
+}
+
+.h2 {
+
+    font-size: 40px;
+    color: white;
+    padding-top: 110px;
+    padding-left: 100px;
+    line-height: 100%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.mylife {
+    max-width: 572px;
+    font-size: 18px;
+    line-height: 150%;
+    color: #afafaf;
+    padding-left: 125px;
+    /* border: 2px solid red; */
+    padding-bottom: 50px;
+}
+
+.zaglav {
+    max-width: 572px;
+    font-size: 23px;
+    line-height: 150%;
+    color: white;
+    padding-left: 125px;
+}
+
+.title {
+    color: #6699FF;
+    font-size: 36px;
+    text-align: center;
+    position: fixed;
+    /* Фиксированное позиционирование */
+    top: 15;
+    /* Положение сверху */
+    font-family: 'Press Start 2P', cursive;
+}
+
+.menu {
+    list-style: none;
+    position: absolute;
+    top: -15px;
+    /* Положение сверху */
+    right: 100px;
+    position: fixed;
+    /* Фиксированное позиционирование */
+}
+
+a {
+    color: #6699FF;
+    text-decoration: none;
+    /* Ссылка не активная */
+    font-family: 'Odibee Sans', cursive;
+}
+
+a:hover {
+    color: #FF00FF;
+    text-decoration: underline;
+    /* Ссылка при наведении */
+    font-family: 'Odibee Sans', cursive;
+}
+
+a:active {
+    color: red;
+    /* Ссылка прожатая */
+    font-family: 'Odibee Sans', cursive;
+}
+
+.forexample {
+    color: #ff8000;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    /* Гарнитура шрифта */
+    font-size: 300%;
+    /* Размер текста */
+    font-weight: lighter;
+    /* Светлое начертание */
+}
+
+#ident {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.kaef1 {
+    float: right;
+    border: 2px solid red;
+}
+
+.kaef2 {
+    width: 30%;
+    float: right;
+    padding-top: 270px;
+}
+
+#gallery img { 
+    display: block;
+    width: 30%;
+    padding-left: 800px;
+    float: right;
+    margin-top: 20px;
+    } 
+
+h1 {
+    font-size: 40px;
+    color: #CCCCCC;
+    padding-top: 100px;
+    padding-left: 850px;
+    line-height: 100%;
+    font-family: 'Ranchers', cursive;
+}
+
+.button-play {
+
+    border: none;
+    background: linear-gradient(90deg, #fb641a 0%, #fc3309 100%);
+    border-radius: 300px;
+    color: #ffffff;
+    padding: 25px 35px;
+    padding-right: 40px;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+    margin-left: 120px;
+}

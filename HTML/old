@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Main page</title>
+<style>
+h1 {
+ font-weight: medium; /* Нормальное начертание */
+   } 
+   .select {
+    color: maroon; /* Цвет текста */
+    font-weight: 600; /* Жирное начертание */
+	}
+</head>
+<body>
+<center><font size = "10" color = "Blue" face = "Times new roman" font-weight: "medium" > ITAcademy</font></center>
+<br/><p style="font-size: 200%;"> Пробуем навыки в деле ;) </p>
+<br/><img src="mario.jpeg">
+<br/> <center><p style ="font-size: 350%;"> Информация обо мне </p> </center>
+<center> <p style ="font-size: 400%;"> Краткая биография обо мне. </p> </font>
+<br/><p style ="font-size: 400%;">Родился в 1994 году в городе Минске. Закончил в 2014 году ГИУСТ. Окончил курсы HTML,PHP, а также Бизнесс-анализа. На данный момент изучаю функциональное тестирование. 
+<br/>Работал мерчендайзером, поваром в ресторане, суши-поваром, а также специалистом отдела ВЭД на "Аквадиве", на текущий момент работаю в IBA, на должности Бизнес - Аналитика.
+<br/>Мои хобби это путешествия по миру на мотоцикле и страйкбол.</p> 
+
+
+<br/><br/>
+<a href="second page.html"><img src="secondpg.png" width="100" height="111"></a>
+<a href="third page.html"><img src="thirdpg.png" width="100" height="111"></a>
+<a href="second page.html"><img src="arrownxt.png" width="100" height="111" ></a>
+</center>
+</body>
+</html>

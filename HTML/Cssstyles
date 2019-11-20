@@ -1,0 +1,14 @@
+body {
+    background: url("img/bug.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.forexample {
+    color: #ff5555;
+}
+
+#ident {
+    color: #ffffff;
+    font-weight: bold;
+}
